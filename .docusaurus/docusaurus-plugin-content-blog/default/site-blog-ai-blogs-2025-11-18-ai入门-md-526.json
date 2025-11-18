@@ -1,0 +1,56 @@
+{
+  "permalink": "/blog/long-blog-post",
+  "editUrl": "https://github.com/ZEC-dev/doccusaurus/blog/AIBlogs/2025-11-18-AI入门.md",
+  "source": "@site/blog/AIBlogs/2025-11-18-AI入门.md",
+  "title": "AI入门",
+  "description": "这是AI的基础",
+  "date": "2025-11-18T00:00:00.000Z",
+  "tags": [
+    {
+      "inline": false,
+      "label": "Hello",
+      "permalink": "/blog/tags/hello",
+      "description": "Hello tag description"
+    },
+    {
+      "inline": false,
+      "label": "AI",
+      "permalink": "/blog/tags/AI",
+      "description": "AI教程"
+    }
+  ],
+  "readingTime": 0.28,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Yangshun Tay",
+      "title": "Ex-Meta Staff Engineer, Co-founder GreatFrontEnd",
+      "url": "https://linkedin.com/in/yangshun",
+      "page": {
+        "permalink": "/blog/authors/yangshun"
+      },
+      "socials": {
+        "x": "https://x.com/yangshunz",
+        "linkedin": "https://www.linkedin.com/in/yangshun/",
+        "github": "https://github.com/yangshun",
+        "newsletter": "https://www.greatfrontend.com"
+      },
+      "imageURL": "https://github.com/yangshun.png",
+      "key": "yangshun"
+    }
+  ],
+  "frontMatter": {
+    "slug": "long-blog-post",
+    "title": "AI入门",
+    "authors": "yangshun",
+    "tags": [
+      "hello",
+      "AI"
+    ]
+  },
+  "unlisted": false,
+  "nextItem": {
+    "title": "Welcome",
+    "permalink": "/blog/welcome"
+  }
+}

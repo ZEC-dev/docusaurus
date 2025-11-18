@@ -1,0 +1,20 @@
+{
+  "id": "hello",
+  "title": "hello",
+  "description": "",
+  "source": "@site/docs/hello.md",
+  "sourceDirName": ".",
+  "slug": "/hello",
+  "permalink": "/zh-Hans/docs/hello",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/ZEC-dev/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/hello.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Translate your site",
+    "permalink": "/zh-Hans/docs/tutorial-extras/translate-your-site"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "permalink": "/zh-Hans/blog/AI1",
+  "editUrl": "https://github.com/ZEC-dev/doccusaurus/blog/AIBlogs/2025-11-18-AI1.md",
+  "source": "@site/blog/AIBlogs/2025-11-18-AI1.md",
+  "title": "AI入门",
+  "description": "这是AI的基础",
+  "date": "2025-11-18T00:00:00.000Z",
+  "tags": [
+    {
+      "inline": false,
+      "label": "Hello",
+      "permalink": "/zh-Hans/blog/tags/hello",
+      "description": "Hello tag description"
+    }
+  ],
+  "readingTime": 0.28,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "张恩诚",
+      "title": "张恩诚",
+      "page": {
+        "permalink": "/zh-Hans/blog/authors/ZEC"
+      },
+      "github": "ZEC-dev",
+      "url": "https://zec-dev.github.io",
+      "key": "zec"
+    }
+  ],
+  "frontMatter": {
+    "slug": "AI1",
+    "title": "AI入门",
+    "authors": [
+      "zec"
+    ],
+    "tags": [
+      "hello"
+    ]
+  },
+  "unlisted": false,
+  "nextItem": {
+    "title": "Welcome",
+    "permalink": "/zh-Hans/blog/welcome"
+  }
+}
